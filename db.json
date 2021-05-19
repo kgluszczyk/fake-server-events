@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "name": "All Points East",
+      "imageUrl": "https://thesciencegeek01.files.wordpress.com/2015/04/supernova.jpg",
+      "startDate": "2021-08-27",
+      "durationInDays": 4,
+      "location": "London",
+      "cost": "123",
+      "currency": "£",
+      "genre": "Pop"
+    },
+    {
+      "name": "Boundary Brighton",
+      "imageUrl": "https://media.resources.festicket.com/www/admin/uploads/images/Boundary_ds3EnPb.jpg",
+      "startDate": "2021-09-25",
+      "durationInDays": 3,
+      "location": "Brighton",
+      "cost": "456",
+      "currency": "£",
+      "genre": "Pop"
+    },
+    {
+      "name": "TRNSMT Festival",
+      "imageUrl": "https://media.resources.festicket.com/www/admin/uploads/images/TRNSMT_vsNWUjz.jpg",
+      "startDate": "2021-09-25",
+      "durationInDays": 3,
+      "location": "Brighton",
+      "genre": "Rock"
+    },
+    {
+      "name": "Terminal V Festival – Halloween",
+      "imageUrl": "https://media.resources.festicket.com/www/admin/uploads/images/Terminal.jpg",
+      "startDate": "2021-10-30",
+      "durationInDays": 2,
+      "location": "Edinburgh",
+      "cost": "123",
+      "currency": "£"
+    },
+    {
+      "name": "Neigbourhood Weekender",
+      "imageUrl": "https://media.resources.festicket.com/www/admin/uploads/images/NHD.jpg",
+      "startDate": "2021-09-05",
+      "durationInDays": 3,
+      "location": "Edinburgh",
+      "cost": "123",
+      "currency": "£",
+      "genre": "Pop"
+    },
+    {
+      "name": "MiNT Festival",
+      "imageUrl": "https://media.resources.festicket.com/www/admin/uploads/images/MintFestival.jpg",
+      "startDate": "2021-09-25",
+      "durationInDays": 1,
+      "location": "Leeds",
+      "cost": "123",
+      "currency": "£",
+      "genre": "Pop"
+    },
+    {
+      "name": "Beautiful People",
+      "imageUrl": "https://media.resources.festicket.com/www/admin/uploads/images/SPW.jpg",
+      "startDate": "2021-09-04",
+      "durationInDays": 1,
+      "location": "Leeds",
+      "cost": "123",
+      "currency": "£",
+      "genre": "Pop"
+    },
+    {
+      "name": "Newsam Park",
+      "imageUrl": "https://media.resources.festicket.com/www/admin/uploads/images/Newsam.jpg",
+      "startDate": "2021-10-07",
+      "durationInDays": 1,
+      "location": "Leeds",
+      "cost": "123",
+      "currency": "£",
+      "genre": "Pop"
+    },
+    {
+      "name": "Southbound Festival",
+      "imageUrl": "https://media.resources.festicket.com/www/admin/uploads/images/Southbound_tcnIHA4.jpg",
+      "startDate": "2021-09-05",
+      "durationInDays": 1,
+      "location": "London",
+      "cost": "123",
+      "currency": "£",
+      "genre": "Pop"
+    }
+  ]
+}
